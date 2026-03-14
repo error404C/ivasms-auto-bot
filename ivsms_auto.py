@@ -30,8 +30,8 @@ ADMIN_ID = 5790249285                                            # Your Telegram
 CHAT_ID = -1002640997198                                         # Your channel/group ID
 
 # Login credentials
-EMAIL = "saemuelsrom@gmail.com"             # Your ivasms.com email
-PASSWORD = "Ethan@1233"                     # Your ivasms.com password
+EMAIL = "larrymullenjr3@gmail.com"             # Your ivasms.com email
+PASSWORD = "larry123@"                     # Your ivasms.com password
 
 HEADLESS = False  # Set True to hide browser
 
