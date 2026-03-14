@@ -25,9 +25,9 @@ from selenium.webdriver.support import expected_conditions as EC
 import undetected_chromedriver as uc
 
 # ======= CONFIG =======
-BOT_TOKEN = "8200663257:AAEQSup_uRlBbqnlZm75vu_eeS8SjkaoZlY"     # Your Telegram bot token # Get from @BotFather   
-ADMIN_ID = 5790249285                                            # Your Telegram user ID
-CHAT_ID = -1002640997198                                         # Your channel/group ID
+BOT_TOKEN = "8545429347:AAG7EBBEM4gBojE_4dh6-Mx9aKQHnZPcYD0"     # Your Telegram bot token # Get from @BotFather   
+ADMIN_ID = 7578254597                                            # Your Telegram user ID
+CHAT_ID = -1003656538385                                         # Your channel/group ID
 
 # Login credentials
 EMAIL = "larrymullenjr3@gmail.com"             # Your ivasms.com email
